@@ -6,6 +6,7 @@
 # HashFish Miner
 
 Download: (http://hash.fish/)
+
 Dynamically switches algorithms to profitable crypto for high yields
 
 ## What is it?
@@ -60,20 +61,20 @@ How to report bugs and issues? Please contact us, we are here to help!!!!
 
 ## Contact us
 
-Email:help@hashfish.net
+Email:
+help@hashfish.net
 
 Telegram: Group: 
-
 https://t.me/Hash_Fish
 
 Facebook:
-
 https://www.facebook.com/HashFishGlobal
 
 Twitter:
-
 https://twitter.com/fish_hash
 
 Messenger
-
 https://m.me/join/AbaVoYk5W4djnwTc
+
+Discord
+https://discord.gg/HdWhhXM
