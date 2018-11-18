@@ -51,7 +51,7 @@ http://hash.fish/personal.html
 - Download HashFish Miner app from [http://hash.fish](http://hash.fish/)
 - Install HashFish Miner
 - Login email and start mining
-- Wait and withdarw
+- Wait and withdarwl
 
 ### Virustotal Virus Test: 
 
