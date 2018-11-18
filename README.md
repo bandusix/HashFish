@@ -36,7 +36,7 @@ Install on your Windows PC or laptop and start to mining into your email account
 
 ![20181118174820.png](https://i.loli.net/2018/11/18/5bf135f8d6591.png)
 
-![20181118174846.png](https://i.loli.net/2018/11/18/5bf135f933557.png)
+![tyrtyhn20181118174846.png](https://i.loli.net/2018/11/18/5bf137c8a7999.png)
 
 
 ## What about payments?
